@@ -14,5 +14,5 @@ We provide the code in .R, .rmd and .pdf along with the system requirements. Con
 
 ## Datasets included
 Here you can find the supplementary material and datasets needed to replicate our work: 
-* irrigation_assumptions_SM.xlsx : contains the directory of assumptions
+* irrigation_assumptions_SI.xlsx : contains the directory of assumptions
 * assumptions.xlsx : results of this study
